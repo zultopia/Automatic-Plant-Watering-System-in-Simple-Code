@@ -1,7 +1,5 @@
 # Automatic-Plant-Watering-System-in-Simple-Code
 
-# Automatic Plant Watering System
-
 This repository contains a project undertaken by me, Marzuli Suhada M (13522070), to fulfill the assignment for the IF2120 Discrete Mathematics paper in 2023. The source code consists of one stage: determining whether the automatic plant watering system is on or off based on the current conditions.
 
 ## Determining Factors
