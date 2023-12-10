@@ -1,0 +1,6 @@
+🌿 Welcome to Azul's Smart Garden! 🌿
+Hello, Azul. How was your day? Ready to watering your plants?
+Enter switch state (ON/OFF): OFF
+Enter interval time (in days): 2
+Enter soil moisture height (in cm): 3
+Automatic Plant Watering System is OFF. Your garden is taking a break. 😴
